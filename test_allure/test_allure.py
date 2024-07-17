@@ -19,4 +19,4 @@ class TestAllure:
 
 
 if __name__ == '__main__':
-    pytest.main(['--alluredir=test_report'])
+    pytest.main(['--alluredir=test_allure'])
